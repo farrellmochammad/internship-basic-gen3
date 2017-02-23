@@ -3,7 +3,7 @@
 
 class BigRandom:
     def __init__(self):
-        self.data = open("latihan.txt","r")
+        self.data = open("data.txt","r")
         # add attributes if you need more
 
     def answer(self):
