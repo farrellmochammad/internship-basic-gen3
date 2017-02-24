@@ -24,7 +24,6 @@ class BigRandom:
                         noh += 1
                     else:
                         bla += 1
-                        noh += 1
                 elif j!=type(int):
                     suc += ord(j)
 
